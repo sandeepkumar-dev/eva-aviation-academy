@@ -7,7 +7,7 @@ const ImportExportHeader = () => {
     <>
       <div class="header">
         <div class="header-1">
-          <img className="logo2" src="../images/logo2.jpg" alt="" />
+          <img className="logo2" src="./images/logo2.jpg" alt="" />
           {/* <h1>Eva Aviation Import & Export</h1> */}
         </div>
         <ul>
