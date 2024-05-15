@@ -8,7 +8,7 @@ const AcademyHome = () => {
       <header>
         <h1>Welcome to Eva Aviation Academy</h1>
         <p>Your pathway to the skies!</p>
-        <img src="../images/Eva-Aviation.jpg" alt="" />
+        <img src="./images/Eva-Aviation.jpg" alt="" />
       </header>
       <main>
         <section className="about">
