@@ -142,4 +142,17 @@
     font-size: 1rem;
     padding: 7px;
   }
+
+  .checkbox-toggle:checked ~ .menu {
+    display: block;
+    position: absolute;
+    top: 18%;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #f3f3f3; /* Change background color */
+    background-image: linear-gradient(rgb(231, 212, 235), rgb(69, 157, 239));
+
+    padding: 10px 0; /* Adjust padding as needed */
+  }
 }
